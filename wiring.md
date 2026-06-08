@@ -1,0 +1,15 @@
+# Wiring Connections
+
+## GPS Module
+
+GPS TX -> ESP32 GPIO16
+GPS RX -> ESP32 GPIO17
+GPS VCC -> 3.3V
+GPS GND -> GND
+
+## GSM Module
+
+SIM800L TX -> ESP32 GPIO26
+SIM800L RX -> ESP32 GPIO27
+SIM800L GND -> GND
+SIM800L VCC -> External 4V Supply
