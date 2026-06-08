@@ -1,0 +1,7 @@
+ESP32 Dev Module
+NEO-6M GPS Module
+SIM800L GSM Module
+Jumper Wires
+Power Supply
+Battery Pack
+Breadboard
